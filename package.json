@@ -19,7 +19,7 @@
     "sails": "^1.2.3",
     "sails-hook-grunt": "^3.0.2",
     "sails-hook-orm": "^2.0.0-16",
-    "sails-hook-sockets": "^1.4.0",
+    "sails-hook-sockets": "^1.5.5",
     "sails-mongo": "^1.0.1",
     "twilio": "^3.17.3"
   },
