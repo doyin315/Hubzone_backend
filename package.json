@@ -9,7 +9,7 @@
     "@sailshq/lodash": "^3.10.3",
     "@sailshq/socket.io-redis": "^5.2.0",
     "async": "2.0.1",
-    "bcrypt": "^2.0.1",
+    "bcrypt": "^5.0.0",
     "bcrypt-node": "^0.1.0",
     "bluebird": "^3.5.1",
     "grunt": "^1.0.3",
